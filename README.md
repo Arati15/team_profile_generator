@@ -10,8 +10,6 @@
 
   A software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The use can input any team meber which is mix with Engineer and intern.
  
- ![Aseeets](./Assets/teamProfile2.PNG)
-
   ---
 
   ## Table of Contents:
@@ -26,7 +24,7 @@
 
   ## Installation:
 
-  Clone repository from Github at ---------  . NPM init and install dependencies.
+  Clone repository from Github at https://github.com/Arati15/team_profile_generator 
 
 ---
 
@@ -49,7 +47,6 @@
   ## Tests:
   Jest (npm run test)
 
-  ![Assets](./Assets/teamProfile1.PNG)
 
 ---
 
