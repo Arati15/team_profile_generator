@@ -10,7 +10,7 @@
 
   A software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The use can input any team meber which is mix with Engineer and intern.
  
- ![GitHub Logo](/Assets/teamProfile2.PNG)
+ ![Aseeets](./Assets/teamProfile2.PNG)
 
   ---
 
@@ -49,7 +49,7 @@
   ## Tests:
   Jest (npm run test)
 
-  ![GitHub Logo](/Assets/teamProfile1.PNG)
+  ![Assets](./Assets/teamProfile1.PNG)
 
 ---
 
